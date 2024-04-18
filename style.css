@@ -38,7 +38,7 @@ body {
 }
 
 .Time-div-conteudo{
-    width: 35%;
+    width: 35%; 
 }
 
 
@@ -74,12 +74,12 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-image: linear-gradient(#00040a,#787a7a);;
     text-align: center;
 }
 
 .rodape-imagem{
-    height: 60px;
+    height: 20px;
     padding: 12px 0;
    
 }
